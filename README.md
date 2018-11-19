@@ -12,9 +12,10 @@ DLI           ✈      JSM
 ***
 ####  `[Sat, 01 Dec 2018]`
 
-* Auto Rickshaw to City Center (Fort)  
-* Lunch
-* Walk to Shiva Bikes to hire motorcycles
+* Auto Rickshaw for INR 50 to Jaisalmer Fort area near Police Chowki(2 KMs).   
+  This is the main Jaisalmer Market with all the restaurants.
+* Have Lunch
+* Walk to `Shiva Bike Rental, Surabhi Restaurant,Dhibba Para` to hire motorcycles(130 MTRs)
 
 
 ***
