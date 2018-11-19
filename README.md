@@ -19,5 +19,6 @@ DLI           ✈      JSM
 
 ![image](https://user-images.githubusercontent.com/13016162/48720798-79cacd80-ec46-11e8-9f1a-10c833202498.png)
 
+* Ride to `Sultan Resorts, Sam Sand Dunes[+91 9145934346]` 
 ***
 
