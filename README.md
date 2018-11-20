@@ -27,7 +27,7 @@ DLI           ✈      JSM
 ***
 
 ####  `[Sun, 02 Dec 2018]`
-* Motorcycle ride to `Sam - Longewala - Tanot - Khuri - Jaisalmer` (Total KMs: 270)
+* Motorcycle ride to `Sam - Longewala - Tanot - Jaisalmer` (Total KMs: 270)
 * Refer this [blog](https://www.tripoto.com/trip/in-and-around-jaisalmer-tales-from-the-western-border-596db91c3caa3) to get an idea what to expect on this trip.
 * Reach Jaisalmer Town by 3 PM, return motorcycles to Shiva bikes.
 * Relax and trol around city.
