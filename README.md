@@ -36,7 +36,7 @@ DLI           ✈      JSM
 * Have dinner
 * back to Train station for return journey  
 
-####  `[Sun, 03 Dec 2018]`
+####  `[Mon, 03 Dec 2018]`
 
 ```
 03Dec2018 | RANIKHET Express Train# 15013
