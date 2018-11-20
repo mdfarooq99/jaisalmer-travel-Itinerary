@@ -16,6 +16,7 @@ DLI           ✈      JSM
   This is the main Jaisalmer Market with all the restaurants.
 * Have Lunch
 * Walk to `Shiva Bike Rental, Surabhi Restaurant,Dhibba Para` to hire motorcycles(130 MTRs)
+* Hire for 24 Hours so we can further travel and return next day.
 
 ![image](https://user-images.githubusercontent.com/13016162/48720798-79cacd80-ec46-11e8-9f1a-10c833202498.png)
 
