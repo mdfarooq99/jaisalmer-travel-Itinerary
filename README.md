@@ -14,7 +14,7 @@ DLI           ✈      JSM
 
 * Auto Rickshaw for INR 50 to Jaisalmer Fort area near Police Chowki(2 KMs).   
   This is the main Jaisalmer Market with all the restaurants.
-* Have Lunch at `Sunrise Paratha House, Near fort parking, Next to English wine shop, Jaisalmer`  
+* Walk 100 Mtrs to have Lunch at `Sunrise Paratha House, Near fort parking, Next to English wine shop, Jaisalmer`  
 * Check [Jaisalmer: Places To Eat](jaisalmer_places_to_eat.md) for more eating options
 * Walk to `Shiva Bike Rental, Surabhi Restaurant,Dhibba Para` to hire motorcycles(130 MTRs)
 * Hire for 24 Hours so we can further travel and return next day.
