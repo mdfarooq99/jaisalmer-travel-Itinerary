@@ -28,7 +28,7 @@ DLI           ✈      JSM
 
 ####  `[Sun, 02 Dec 2018]`
 * Motorcycle ride to `Sam - Longewala - Tanot - Jaisalmer` (Total KMs: 270)
-* Refer this [blog](https://www.tripoto.com/trip/in-and-around-jaisalmer-tales-from-the-western-border-596db91c3caa3) to get an idea what to expect on this trip.
+* Refer this [blog](https://www.tripoto.com/trip/in-and-around-jaisalmer-tales-from-the-western-border-596db91c3caa3) and this [blog](https://www.solobackpacker.com/2015/01/16/western-rajasthan-motorcycle-journey-2-tanot-mata-temple-and-longewala/) to get an idea what to expect on this trip.
 * Reach Jaisalmer Town by 3 PM, return motorcycles to Shiva bikes.
 * Relax and trol around city.
 * Jaisalmer fort if time permits.
