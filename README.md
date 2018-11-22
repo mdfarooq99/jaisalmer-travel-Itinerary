@@ -1,6 +1,6 @@
-# [Planning: Trip To Jaisalmer](https://en.wikipedia.org/wiki/Jaisalmer)
+# [Planning: Trip To Udaipur & Mount Abu](https://en.wikipedia.org/wiki/Udaipur)
 
-### Dates `30Nov2018 to 03Dec2018 | Travel itinerary` 
+### Dates `25Dec2018 to 29Dec2018 | Travel itinerary` 
 ***
 #### `[Friday, 30 Nov 2018]`
 
