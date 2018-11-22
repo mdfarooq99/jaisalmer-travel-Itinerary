@@ -14,7 +14,7 @@ PNR:2254298454,TRN:14659,DOJ:30-11-18,SL,DLI-JSM,DP:17:35,
 ASHWANI KUMAR+5,RAC 44,RAC 45,RAC 46,RAC 47,RAC 48,RAC 49,
 Fare:2640.This rail travel is insured
 ```  
-* [PNR QUERY: 2254298454](jaisalmer_places_to_eat.md) 
+* [PNR QUERY: 2254298454](https://erail.in/pnr-status/2254298454) 
 ***
 ####  `[Sat, 01 Dec 2018]`
 
@@ -54,4 +54,4 @@ PNR:2254299620,TRN:15013,DOJ:03-12-18,SL,JSM-DLI,DP:01:00,
 ASHWANI KUMAR+5,S8 41,S8 44,S8 42,S8 43,S8 45,S8 46,
 Fare:2730.This rail travel is insured
 ```
-* [PNR QUERY: 2254299620](jaisalmer_places_to_eat.md) 
+* [PNR QUERY: 2254299620](https://erail.in/pnr-status/2254299620)
